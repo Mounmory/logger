@@ -47,6 +47,7 @@
 - **中文**:
   - Window：使用CMake直接构建Visual Studio工程，打开后编辑运行即可 
   - Linux：使用CMake-gui构建或在控制台使用如下命令构建
+
 		```bash
 		# Build with CMake In Linux 
 		mkdir build && cd build  
@@ -56,7 +57,8 @@
 
 - **English**:
   - Window: Use CMake to generate the Visual Studio project directly. Open the solution file (.sln) to edit and run.
-  - Linux: Build with CMake-gui or via the command line. 		
+  - Linux: Build with CMake-gui or via the command line. 
+
 		```bash
 		# Build with CMake In Linux 
 		mkdir build && cd build  
